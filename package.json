@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "sourcefetch:fetch"
   },
-  "repository": "https://github.com/atom/sourcefetch",
+  "repository": "https://github.com/qhuang08/sourcefetch",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
