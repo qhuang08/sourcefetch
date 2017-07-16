@@ -1,7 +1,7 @@
 {
   "name": "sourcefetch",
   "main": "./lib/sourcefetch",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Fetching related code snippet from stackoverflow when you select some text and crt-alt-o",
   "keywords": [],
   "activationCommands": {
